@@ -3,5 +3,6 @@ A machine learning app which filters spam email using natural language processin
 #Demo https://http://spamfilterappv1.herokuapp.com/
 
 Screenshots:
-[!alt main screen] (https://github.com/saxenaudit/email_spam_filter_app/blob/master/screenshots/spamfiltermain.png)
-[! alt result] (https://github.com/saxenaudit/email_spam_filter_app/blob/master/screenshots/spamfilterresult.png)
+<img src="https://github.com/saxenaudit/email_spam_filter_app/blob/master/screenshots/spamfilterresult.png" alt="natural language processing"/>
+<br>
+<img src="https://github.com/saxenaudit/email_spam_filter_app/blob/master/screenshots/spamfiltermain.png" alt="natural language processing" />
